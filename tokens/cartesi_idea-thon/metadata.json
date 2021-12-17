@@ -1,6 +1,6 @@
 { 
     "name": "Cartesi x IoTeX Idea-Thon",
     "description": "Cartesi x IoTeX Idea-Thon NFTs.", 
-    "image": "https://github.com/iotexproject/nft-assets/tokens/cartesi_idea-thon/image.gif",
-    "animation_url": "https://github.com/iotexproject/nft-assets/tokens/cartesi_idea-thon/vedio.mp4"
-  }
+    "image": "https://nft.iotex.io/tokens/cartesi_idea-thon/image.gif",
+    "animation_url": "https://nft.iotex.io/tokens/cartesi_idea-thon/vedio.mp4"
+}
