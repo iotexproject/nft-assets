@@ -1,5 +1,6 @@
 { 
     "name": "W3bstream Devnet Launch",
     "description": "W3bstream Devnet Launch NFTs.", 
-    "image": "https://nft.iotex.io/tokens/w3bstream/dev_launch/image.png"
+    "image": "https://nft.iotex.io/tokens/w3bstream/dev_launch/image.png",
+    "animation_url": "https://nft.iotex.io/tokens/w3bstream/dev_launch/vedio.mp4"
 }
