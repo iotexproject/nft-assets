@@ -1,6 +1,6 @@
 {
-    "name": "Crosschain IOTX",
-    "symbol": "CIOTX",
+    "name": "CIOTX Token (Wormhole from Ethereum)",
+    "symbol": "IOTX",
     "description": "Crosschain IOTX on Solana",
-    "image": "https://nft.iotex.io/tokens/solana/ciotx/logo.png"
+    "image": "https://assets.iotex.io/tokens/solana/ciotx/logo.png"
 }
